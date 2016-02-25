@@ -1,5 +1,5 @@
 Create BBC Micro .ssd files with this script.
-
+```
 bbcfs.py --help
 usage: bbcfs.py [-h] [-d FILE] [-t TITLE] [-o {load,run,exec}]
                 INSPEC [INSPEC ...]
@@ -17,6 +17,6 @@ optional arguments:
                         disk title
   -o {load,run,exec}, --opt {load,run,exec}
                         boot option
-
+```
 
 
