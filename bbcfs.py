@@ -1,5 +1,4 @@
 import argparse
-from exceptions import RunTimeError
 from math import floor
 import os.path
 
